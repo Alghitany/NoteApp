@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">notes</string>
+    <string name="name">Notes</string>
+    <string name="alert_dialog_line1">Designed by - </string>
+    <string name="alert_dialog_line2">Redesigned by -</string>
+    <string name="alert_dialog_line3">Illustrations - </string>
+    <string name="alert_dialog_line4">Icons - </string>
+    <string name="alert_dialog_line5">Font -</string>
+    <string name="alert_dialog_line6">Made by</string>
+    <string name="home_screen_empty_main_text">Create your first note !</string>
+    <string name="editor_screen_body">Title</string>
+    <string name="editor_screen_body2">Type something...</string>
+    <string name="search_screen_textField1">Food Recipe</string>
+    <string name="search_screen_textField2">Search by the keyword...</string>
+    <string name="search_screen_body">File not found. Try searching again.</string>
+    <string name="empty_title">Untitled</string>
+</resources>
